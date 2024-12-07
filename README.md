@@ -1,1 +1,1 @@
-print("hiii")
+Hello! I am Thowhid Hassan Himel, a passionate Computer Science student with aspirations of becoming both a skilled developer and an inspiring teacher. My journey in software development combines technical skills with a goal to impact others through teaching and mentorship.
